@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "docker precisa estar instalado"
+echo "docker precisa estar instalado!"
 
 #criando volume
 docker volume create portainer_data
